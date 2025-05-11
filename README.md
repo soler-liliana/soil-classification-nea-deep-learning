@@ -3,7 +3,6 @@
 ## CNNs applied to satellite imagery from NEA Argentina
 
 A deep learning project for land use classification using satellite images and CNNs, focused on generalization to the NEA region (Argentina).  
-Developed as the final work for the Data Science program.
 
 ---
 
